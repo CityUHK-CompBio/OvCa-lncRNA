@@ -1,4 +1,4 @@
-## Subtype-specific lncRNA ZFHX4-AS1 promotes invasion and metastasis of ovarian cancer by interacting with HuR RNA binding protein to stabilize its antisense gene ZFHX4
+## Subtype-specific lncRNA ZFHX4-AS1 drives ovarian cancer metastasis via HuR-mediated stabilization of ZFHX4
 
 ### 1. Background
 Ovarian cancer (OvCa) is a heterogeneous disease, posing a significant challenge to women’s health globally. Currently, the biological function of long non-coding RNAs (lncRNAs) in different subtypes of OvCa remains poorly characterized. Among these subtypes, mesenchymal OvCa is the most aggressive subtype with unfavorable survival outcomes.   
